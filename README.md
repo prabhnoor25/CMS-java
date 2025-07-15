@@ -14,6 +14,33 @@ A terminal-based comment management system with colored CLI interface and user/t
 | **CLI**        | Colored terminal interface                   |
 | **Persistence**| In-memory data storage                       |
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhnoor25/CMS-java/refs/heads/main/ScreenShots/1.png">
+  <span>Taking name of user as input</span>
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhnoor25/CMS-java/refs/heads/main/ScreenShots/2.png">
+  <span>Navigation Menu</span>
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhnoor25/CMS-java/refs/heads/main/ScreenShots/3.png">
+  <span>Topic</span>
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhnoor25/CMS-java/refs/heads/main/ScreenShots/4.png">
+  <span>Adding a comment</span>
+</p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhnoor25/CMS-java/refs/heads/main/ScreenShots/5.png">
+  <span>Exit</span>
+</p
+
 ## 🛠️ Installation
 ```bash
 # Clone repository
